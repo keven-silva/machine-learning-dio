@@ -9,7 +9,6 @@ This repository has all the activity files of Bootcamp Training Machine Learning
 - Visualize the data
     
 <p>In this file, the subject of transfer of learning was addressed, through training weights.</p>
-<br>
 
 ## Cats and dogs
 - Cats and dogs dataset
@@ -19,7 +18,6 @@ This repository has all the activity files of Bootcamp Training Machine Learning
 - Visualize the data
 
 <p>In this file, two new classes "cats" and "dogs" were trained, using a classification model</p>
-<br>
 
 ## Calculate and evaluate the scatter table metrics
 - True positive
@@ -34,14 +32,12 @@ This repository has all the activity files of Bootcamp Training Machine Learning
 - Roc curve
 
 <p>In this file, methods were used to extract information from a dispersion table and some calculations were performed.</p>
-<br>
 
 ## Yolo detection network
 - Retrained two classes
 - Yolov4 network
 
 <p>In this file, two classes were retrained with the yolov4 network</p>
-<br>
 
 ## Face recognition algorithm
 - Configure a new model
@@ -51,7 +47,6 @@ This repository has all the activity files of Bootcamp Training Machine Learning
 - Facial recognition
 
 <p>In this file, yolov4 detection network was used, for face detection, the algorithm works with an image taken from the web cam or in real time.</p>
-<br>
 
 ## virtual assistant
 - Convert human speech to text
